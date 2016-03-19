@@ -60,6 +60,8 @@ All the links and description of install packages that need to use.
  
   https://www.mongodb.org/downloads#production
   
+  Don't install in c:, can't start .bat
+  
   After install,go into the file ,create a file (let's say data),
   
   then use a .bat to start MongoDB,in .bat store :
@@ -68,9 +70,17 @@ All the links and description of install packages that need to use.
   
   With .bat is on ,use MongoVue to see this database.
   
+  install MongoVue need .NET framework, win10 has it,but need to start it by chosen.
+  
+  
+  
   
  9.MongoVue
  
   http://www.mongovue.com/downloads/
+  
+  While use MongoVue,.bat must stay open. So the connection will hold.
+  
+  
  
  
