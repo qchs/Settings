@@ -10,7 +10,11 @@ All the links and description of install packages that need to use.
 
   http://laod.cn/hosts
   
-  After this ,Chrome's app store is able to open.(Try Currently or Momen)
+  After this ,Chrome's app store is able to open.
+  
+  (Try Currently:http://www.cnplugins.com/news/currently/ 
+  
+  or Momentum：http://www.cnplugins.com/office/momentum/download.html)
   
   
 3.See a bigger world.
