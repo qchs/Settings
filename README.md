@@ -75,12 +75,14 @@ All the links and description of install packages that need to use.
   
   
   
- 9.MongoVue
+ 9.MongoVue(do not support python 3)
  
   http://www.mongovue.com/downloads/
   
   While use MongoVue,.bat must stay open. So the connection will hold.
   
   
+ 10.pyCharm mongo plugin 
  
+ Show the mongoDB dirrectly in the IDE.
  
