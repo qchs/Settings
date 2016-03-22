@@ -10,3 +10,5 @@ http://cuiqingcai.com/tag/%E7%88%AC%E8%99%AB
 
 http://blog.csdn.net/dk_swjtu/article/details/50371738
 
+http://www.07net01.com/2015/07/874436.html 就靠它来解决获取cookie的方法了
+
