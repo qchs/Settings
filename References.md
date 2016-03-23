@@ -14,5 +14,4 @@ http://www.07net01.com/2015/07/874436.html 就靠它来解决获取cookie的方�
 
 http://www.au92.com/archives/requests-get-need-login-url.html
 
-http://www.au92.com/archives/requests-get-need-login-url.html
-
+http://www.jianshu.com/users/f00634cb1580/latest_articles
