@@ -12,3 +12,7 @@ http://blog.csdn.net/dk_swjtu/article/details/50371738
 
 http://www.07net01.com/2015/07/874436.html 就靠它来解决获取cookie的方法了
 
+http://www.au92.com/archives/requests-get-need-login-url.html
+
+http://www.au92.com/archives/requests-get-need-login-url.html
+
